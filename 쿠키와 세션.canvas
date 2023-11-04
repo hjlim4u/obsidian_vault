@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"42813466711a088e","type":"file","file":"파인의 쿠키와 웹 스토리지.md","x":-95,"y":-32,"width":400,"height":400},
+		{"id":"5a911094c0a9cd7b","type":"file","file":"토닉, 후디의 인증과 인가 - 부족사회부터 소셜로그인까지.md","x":-95,"y":-640,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"979332d53d89e202","fromNode":"5a911094c0a9cd7b","fromSide":"bottom","toNode":"42813466711a088e","toSide":"top"}
+	]
+}

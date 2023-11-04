@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"4f5054a7fceeb8a3","x":300,"y":480,"width":400,"height":400,"type":"file","file":"Stored Procedure/Stored Procedure & Stored Function.md"},
+		{"id":"6b440520c5a0a2e6","type":"file","file":"Stored Function/Stored Function.md","x":-60,"y":-140,"width":400,"height":400},
+		{"id":"cb9c59f73ce55689","type":"file","file":"Stored Procedure/Stored procedure.md","x":620,"y":-140,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"3406bf57dc487a6f","fromNode":"6b440520c5a0a2e6","fromSide":"bottom","toNode":"4f5054a7fceeb8a3","toSide":"top"},
+		{"id":"3fa7552abf141a83","fromNode":"cb9c59f73ce55689","fromSide":"bottom","toNode":"4f5054a7fceeb8a3","toSide":"top"}
+	]
+}
